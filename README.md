@@ -2,6 +2,7 @@
 
 <p align="center" style="font-family: monospace">Monica Ciuchetti <a href="https://github.com/mciuchetti">@mciuchetti</a></p>
 <p align="center" style="font-family: monospace">Corso TPSIT <a href="https://www.avoltapg.edu.it/">ITTS A. Volta (PG)</a></p>
+<p align="center" style="font-family: monospace">Template del file README.md ispirato da <a href="https://github.com/matbagnoletti">@matbagnoletti</a></p>
 
 ## Descrizione
 Applicazione Java per simulare l'estrazione di numeri random da inserire in una matrice e il successivo gioco di indovinare uno dei numeri estratti.
